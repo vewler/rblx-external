@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.db
+*.opendb
+.vs/
+Debug/
+Release/
+x64/
+*.pdb
+*.ilk
+*.log
